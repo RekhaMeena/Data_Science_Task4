@@ -6,7 +6,7 @@ Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 As a security/defense analyst, try to find out the hot zone of terrorism.
 What all security issues and insights you can derive by EDA?
 
-#Dataset: https://bit.ly/2TK5Xn5
+# Dataset: https://bit.ly/2TK5Xn5
 
 # CONCLUTION :
 
@@ -26,5 +26,5 @@ Hot Zone of terrorism -
 # What all security issues and insights you can derive by EDA?
 
 According to EDA we are find :
-Middle East less security/defence so, commanly everyone think in the middle less dangore.
-The Private Citizens and Properity are less secure. It is private properity so, goverment is not handle.
+- Middle East less security/defence so, commanly everyone think in the middle less dangore.
+- The Private Citizens and Properity are less secure. It is private properity so, goverment is not handle.
