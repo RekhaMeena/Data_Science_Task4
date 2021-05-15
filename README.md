@@ -13,15 +13,15 @@ What all security issues and insights you can derive by EDA?
 # As a security/defense analyst, try to find out the hot zone of terrorism.
 Hot Zone of terrorism -
 
-Iraq has More Attacks and Ratio of Killed.
-The terrorist use the Explosives Weapon_type more compare to other weapon.
-Middle East & North Africa has high Number Of Terrorist Attacks Per Region.
-South Asia is also having more number of Terrorist Attacks.
-Bombing/Explosion Terrorist Attack type is most common to all AttackType.
-More Terrorist attack on May, and July.
-Miximum attack on the Private Citizens and Properity.
-The number of attack is high in 2014
-after 2005 Number Of Terrorist Activities is exponataily incresed.
+- Iraq has More Attacks and Ratio of Killed.
+- The terrorist use the Explosives Weapon_type more compare to other weapon.
+- Middle East & North Africa has high Number Of Terrorist Attacks Per Region.
+- South Asia is also having more number of Terrorist Attacks.
+- Bombing/Explosion Terrorist Attack type is most common to all AttackType.
+- More Terrorist attack on May, and July.
+- Miximum attack on the Private Citizens and Properity.
+- The number of attack is high in 2014
+- After 2005 Number Of Terrorist Activities is exponationly incresed.
 
 # What all security issues and insights you can derive by EDA?
 
